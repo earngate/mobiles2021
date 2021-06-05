@@ -1,0 +1,94 @@
+{
+    "title": "مراجعة وأسعار الهواتف 2021",
+    "path_prefix": "/",
+    "layout_style": "overflow",
+    "palette": "blue",
+    "header": {
+        "title": "هواتف و موبايلات 2021",
+        "tagline": "مراجعات  اسعار  مقارنة",
+        "profile_img": "/images/image1.png",
+        "profile_img_alt": "Author avatar",
+        "background": "dark",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "الرئيسية",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "التدوينات",
+                "url": "/blog/",
+                "style": "link"
+            },
+            {
+                "label": "هواتف شاومى",
+                "url": "/posts/xiaomi",
+                "style": "link"
+            },
+            {
+                "label": "موبايلات اوبو",
+                "url": "/posts/oppo",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "جوالات سامسونج",
+                "url": "/posts/samsung",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "موبايل ريلمى",
+                "url": "/posts/realme",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action",
+                "label": "مقارنة هواتف"
+            },
+            {
+                "label": "Contact",
+                "url": "/contact/",
+                "style": "button"
+            }
+        ],
+        "has_social": true,
+        "social_links": [
+            {
+                "label": "Twitter",
+                "url": "https://twitter.com/",
+                "style": "icon",
+                "icon_class": "twitter",
+                "new_window": true
+            },
+            {
+                "label": "Instagram",
+                "url": "https://www.instagram.com/",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            }
+        ]
+    },
+    "footer": {
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+    },
+    "domain": "https://super-daffodil-97cdf.netlify.app",
+    "favicon": "/images/magical-onion.png"
+}
